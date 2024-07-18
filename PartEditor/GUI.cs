@@ -11,7 +11,7 @@ using UnityEngine.UI;
 using Object = UnityEngine.Object;
 using Type = SFS.UI.ModGUI.Type;
 
-namespace PartEditor
+namespace Part Paramaters
 {
     public static class GUI
     {
