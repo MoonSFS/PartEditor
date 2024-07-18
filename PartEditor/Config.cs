@@ -8,7 +8,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using Type = SFS.UI.ModGUI.Type;
 
-namespace Part Paramaters
+namespace MoonSFS's Part Paramaters
 {
 
     public class Config : ModSettings<Config.ConfigData>
