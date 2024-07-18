@@ -2,7 +2,7 @@ using SFS.Parts;
 using SFS.Variables;
 using UnityEngine;
 
-namespace PartEditor
+namespace MoonSFS's Part Paramaters
 {
     // ReSharper disable InconsistentNaming
     public class Part_Local : Obs<Part>
