@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartEditor", "PartEditor\PartEditor.csproj", "{51711092-196E-44FF-AFB4-2BD141169AFB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoonSFS's Part Paramaters", "MoonSFS's Part Paramaters\MoonSFS's Part Paramaters.csproj", "{51711092-196E-44FF-AFB4-2BD141169AFB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
