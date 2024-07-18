@@ -6,7 +6,7 @@ using SFS.Builds;
 using SFS.IO;
 using UITools;
 
-namespace PartEditor
+namespace MoonSFS's Part Paramaters
 {
     public class Main : Mod, IUpdatable
     {
